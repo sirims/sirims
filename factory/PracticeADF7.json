@@ -1,0 +1,9 @@
+{
+	"name": "PracticeADF7",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "16d6c674-c728-4ade-892b-c0216254decc",
+		"tenantId": "b82cb43f-57b2-4bf0-b45e-a1360d921dbc"
+	}
+}
